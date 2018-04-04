@@ -672,8 +672,17 @@
       "CatchRate": 0.5
     },
     {
+      "Id": 380,
+      "Tier": 5,
+      "Name": "Latias",
+      "BossCP": 45704,
+      "MinCP": 2236,
+      "MaxCP": 1929,
+      "CatchRate": 0.02
+    },
+    {
       "Id": 382,
-      "Tier": 2,
+      "Tier": 5,
       "Name": "Kyogre",
       "BossCP": 51968,
       "MinCP": 2236,
